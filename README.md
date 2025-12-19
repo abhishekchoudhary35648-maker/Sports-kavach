@@ -1,2 +1,1 @@
-# Sports-kavach
-Designed and developed a subscription-based medical service platform tailored for athletes, offering comprehensive  healthcare plans to ensure medical coverage and reduce performance-related stress. Focused on seamless user expe- rience and financial accessibility in sports healthcare.
+Deploy Link: https://66f0eed760bee97d3e626e27--jolly-profiterole-497cd2.netlify.app/
